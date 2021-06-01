@@ -5,9 +5,9 @@ Objective : Develop a custom Linux shell
 
 The objective of this C++ program is to:
 
-•Appreciate how the bash shell runs commands
-•Gain familiarity with fork and exec system calls
-•Continue to build strength with I/O streams & string processing
+•Appreciate how the bash shell runs commands.
+•Gain familiarity with fork and exec system calls.
+•Continue to build strength with I/O streams & string processing.
 •Reviewproblem solving strategies.
 
 
